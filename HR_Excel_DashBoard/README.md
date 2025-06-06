@@ -1,4 +1,6 @@
 HR Excel Dashboard 
+![Dashboard Preview](Record_3.gif)
+
 Overview
 This GIF showcases an HR Analyst Dashboard visualizing employee attrition and workforce metrics. The dashboard includes key statistics, charts, and breakdowns of attrition patterns across demographics, roles, and departments.
 
