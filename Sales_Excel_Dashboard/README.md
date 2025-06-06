@@ -1,6 +1,6 @@
 Workbook Structure
 
-
+![](https://github.com/aminm015/Excel_Dashboard-/blob/main/Sales_Excel_Dashboard/Record%201.gif)
 
 1. List Sheet
 Purpose: Stores reference data for regions and dynamic chart headings
